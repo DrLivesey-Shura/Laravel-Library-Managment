@@ -19,8 +19,7 @@ A simple Library and Task Management System built with Laravel for learning purp
 
 1. **Clone the repository**
    ```sh
-   git clone <repository-url>
-   cd <project-folder>
+   git clone https://github.com/DrLivesey-Shura/Laravel-Library-Managment.git
    ```
 
 2. **Install dependencies**
@@ -69,6 +68,4 @@ A simple Library and Task Management System built with Laravel for learning purp
 ## Contributing
 This project was built for learning purposes, but feel free to fork and improve it.
 
-## License
-This project is open-source and available under the [MIT License](LICENSE).
 
